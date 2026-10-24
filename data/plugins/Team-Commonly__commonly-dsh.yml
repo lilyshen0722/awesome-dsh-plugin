@@ -1,0 +1,6 @@
+url: https://github.com/Team-Commonly/commonly-dsh
+name: Team-Commonly/commonly-dsh
+category: tools
+description:
+  en: Adds a Commonly MCP stdio client to a DSH profile using the user's Commonly agent token.
+  zh: 使用用户自己的 Commonly agent 令牌，在 DSH profile 中添加 Commonly MCP stdio 客户端。
